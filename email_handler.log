@@ -1,0 +1,886 @@
+2025-01-26 12:59:27,468 - INFO - Gmail API authenticated successfully.
+2025-01-26 12:59:27,473 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-01-26 12:59:27,478 - INFO - Starting to fetch emails...
+2025-01-26 12:59:27,522 - INFO - Connected to PostgreSQL database.
+2025-01-26 12:59:29,895 - INFO - Processed email from: Washington Post <email@washingtonpost.com>, subject: Ticket ID # 4204652: Re: Your email
+2025-01-26 12:59:30,362 - INFO - Processed email from: Washington Post <email@washingtonpost.com>, subject: Ticket ID # 4204651: Re: Your email
+2025-01-26 12:59:30,851 - INFO - Processed email from: Washington Post <email@washingtonpost.com>, subject: Ticket ID # 4204650: Re: Your email
+2025-01-26 12:59:31,318 - INFO - Processed email from: rudranshsingh945@gmail.com, subject: Re: Your email
+2025-01-26 12:59:31,774 - INFO - Processed email from: rudranshsingh945@gmail.com, subject: Re: Your email
+2025-01-26 12:59:32,234 - INFO - Processed email from: rudranshsingh945@gmail.com, subject: Re: Your email
+2025-01-26 12:59:32,690 - INFO - Processed email from: rudranshsingh945@gmail.com, subject: Re: Your email
+2025-01-26 12:59:33,134 - INFO - Processed email from: rudranshsingh945@gmail.com, subject: Re: Your email
+2025-01-26 12:59:33,597 - INFO - Processed email from: rudranshsingh945@gmail.com, subject: Re: Your email
+2025-01-26 12:59:34,067 - INFO - Processed email from: Archit Agarwal <architagarwal07342@gmail.com>, subject: Topihdbhw
+2025-01-26 12:59:34,537 - INFO - Processed email from: Washington Post <email@washingtonpost.com>, subject: Ticket ID # 4204272: Re: Your email
+2025-01-26 12:59:34,988 - INFO - Processed email from: Washington Post <email@washingtonpost.com>, subject: Ticket ID # 4204271: Re: Your email
+2025-01-26 12:59:35,441 - INFO - Processed email from: rudranshsingh945@gmail.com, subject: Re: Your email
+2025-01-26 12:59:35,909 - INFO - Processed email from: Washington Post <email@washingtonpost.com>, subject: Ticket ID # 4204270: Re: Your email
+2025-01-26 12:59:37,037 - INFO - Processed email from: rudranshsingh945@gmail.com, subject: Re: Your email
+2025-01-26 12:59:37,484 - INFO - Processed email from: rudranshsingh945@gmail.com, subject: Re: Your email
+2025-01-26 12:59:37,936 - INFO - Processed email from: rudranshsingh945@gmail.com, subject: Re: Your email
+2025-01-26 12:59:38,391 - INFO - Processed email from: rudranshsingh945@gmail.com, subject: Re: Your email
+2025-01-26 12:59:38,845 - INFO - Processed email from: rudranshsingh945@gmail.com, subject: Re: Your email
+2025-01-26 12:59:39,316 - INFO - Processed email from: Mail Delivery Subsystem <mailer-daemon@googlemail.com>, subject: Delivery Status Notification (Failure)
+2025-01-26 12:59:39,865 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: See how SAM’s detected a move happening Monday
+2025-01-26 12:59:40,347 - INFO - Processed email from: Washington Post <email@washingtonpost.com>, subject: Ticket ID # 4204155: Re: Your email
+2025-01-26 12:59:40,794 - INFO - Processed email from: rudranshsingh945@gmail.com, subject: Re: Your email
+2025-01-26 12:59:41,280 - INFO - Processed email from: Washington Post <email@washingtonpost.com>, subject: Ticket ID # 4204154: Re: Your email
+2025-01-26 12:59:41,727 - INFO - Processed email from: rudranshsingh945@gmail.com, subject: Re: Your email
+2025-01-26 12:59:42,177 - INFO - Processed email from: rudranshsingh945@gmail.com, subject: Re: Your email
+2025-01-26 12:59:42,648 - INFO - Processed email from: Washington Post <email@washingtonpost.com>, subject: Ticket ID # 4204153: Re: Your email
+2025-01-26 12:59:43,102 - INFO - Processed email from: rudranshsingh945@gmail.com, subject: Re: Your email
+2025-01-26 12:59:43,591 - INFO - Processed email from: Washington Post <email@washingtonpost.com>, subject: Ticket ID # 4204145: Re: Your email
+2025-01-26 12:59:44,056 - INFO - Processed email from: Washington Post <email@washingtonpost.com>, subject: Ticket ID # 4204144: Re: Your email
+2025-01-26 12:59:44,518 - INFO - Processed email from: Mail Delivery Subsystem <mailer-daemon@googlemail.com>, subject: Delivery Status Notification (Failure)
+2025-01-26 12:59:45,001 - INFO - Processed email from: Washington Post <email@washingtonpost.com>, subject: Ticket ID # 4204143: Re: Your email
+2025-01-26 12:59:45,492 - INFO - Processed email from: Mail Delivery Subsystem <mailer-daemon@googlemail.com>, subject: Delivery Status Notification (Failure)
+2025-01-26 12:59:45,945 - INFO - Processed email from: Mail Delivery Subsystem <mailer-daemon@googlemail.com>, subject: Delivery Status Notification (Failure)
+2025-01-26 12:59:46,430 - INFO - Processed email from: Mail Delivery Subsystem <mailer-daemon@googlemail.com>, subject: Delivery Status Notification (Failure)
+2025-01-26 12:59:46,917 - INFO - Processed email from: Mail Delivery Subsystem <mailer-daemon@googlemail.com>, subject: Delivery Status Notification (Failure)
+2025-01-26 12:59:47,388 - INFO - Processed email from: Rudransh Singh <rudransh.singh2504@gmail.com>, subject: test mail
+2025-01-26 12:59:47,874 - INFO - Processed email from: Google <no-reply@accounts.google.com>, subject: Security alert
+2025-01-26 12:59:48,446 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Nobody in their right mind will use genAI, LLMs in the next 5 years: Meta chief AI scientist Yann LeCun
+2025-01-26 12:59:49,004 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Trump fires at least 14 independent inspectors general in late-night purge
+2025-01-26 12:59:49,468 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Trader intuition plus AI
+2025-01-26 12:59:50,253 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Saturday, January 25, 2025
+2025-01-26 12:59:51,476 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Trump immigration raids alarm cities, but ICE arrests fewer than in 2017
+2025-01-26 12:59:52,056 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: "He Hates Someone in the Deal”: Trump Roasts Musk Over Stargate
+2025-01-26 12:59:52,642 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: What is a bull put? \U0001f914
+2025-01-26 12:59:53,118 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Unlock expert analysis for US99¢
+2025-01-26 12:59:53,698 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Friday, January 24, 2025
+2025-01-26 12:59:54,174 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Elon Musk bashes the $500 billion AI project Trump announced, claiming its backers don’t ‘have the money’
+2025-01-26 12:59:54,659 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: How one cancer patient turned a grim prognosis into the gamble of her life
+2025-01-26 12:59:55,228 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: MGMT Minute: Why A Job Description Is Insufficient For Hiring The Best Person
+2025-01-26 12:59:55,750 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Did you miss the Trump “memecoin”? \U0001f1fa\U0001f1f2
+2025-01-26 12:59:56,244 - INFO - Processed email from: BookMyShow <no-reply@entertainment.bookmyshow.com>, subject: \U0001f3f9 Relive the timeless legend of Prince Rama!
+2025-01-26 12:59:56,744 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Staying informed starts at US99¢
+2025-01-26 12:59:57,624 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Thursday, January 23, 2025
+2025-01-26 12:59:58,180 - INFO - Processed email from: Pinterest <recommendations@discover.pinterest.com>, subject: Rudransh, these ideas are so you
+2025-01-26 12:59:58,677 - INFO - Processed email from: BookMyShow <no-reply@shows.bookmyshow.com>, subject: \U0001f6e9\ufe0f Take Flight with Sky Force in cinemas!
+2025-01-26 12:59:59,220 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Federal workers fear job cuts, in-office mandates under Trump orders
+2025-01-26 12:59:59,813 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Custom Cancer Vaccines in Days? Inside Trump’s $500 Billion AI Bet
+2025-01-26 13:00:00,316 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Trump’s first days in office
+2025-01-26 13:00:00,940 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Wednesday, January 22, 2025
+2025-01-26 13:00:01,465 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: HOOD takes off, UPST makes a comeback
+2025-01-26 13:00:01,999 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Trump’s executive orders already face pushback, legal challenges
+2025-01-26 13:00:02,563 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Trump Revokes Biden’s AI Executive Order: Implications and Industry Reactions
+2025-01-26 13:00:03,211 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Breakout Levels to Watch Right Now \U0001f6a8
+2025-01-26 13:00:03,685 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Need the inside intel? Our US99¢ sale is for you.
+2025-01-26 13:00:04,328 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Tuesday, January 21, 2025
+2025-01-26 13:00:04,805 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: New Administration... New Trading Trends \U0001f31f
+2025-01-26 13:00:05,320 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Trump sworn in as 47th president
+2025-01-26 13:00:05,817 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Tech Wrap | Jan 20: Instagram Reels Update, JioCoin Launch, AI-Powered Windows Search
+2025-01-26 13:00:06,402 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: It's game time\U0001f4a5
+2025-01-26 13:00:06,884 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Get a source you can trust for US99¢
+2025-01-26 13:00:07,408 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Monday, January 20, 2025
+2025-01-26 13:00:07,896 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: TikTok’s Fight for Survival: How Perplexity AI’s Bold Bid Could Change the Future of Social Media
+2025-01-26 13:00:08,432 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: 3 Israeli hostages released from Gaza
+2025-01-26 13:00:09,062 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Yes, this guy missed an $80B opportunity...
+2025-01-26 13:00:09,768 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Sunday, January 19, 2025
+2025-01-26 13:00:10,290 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Is Your Job Safe? AI Layoffs Are Taking Over the Workplace!
+2025-01-26 13:00:10,830 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Trump has already conquered D.C. even before taking office
+2025-01-26 13:00:11,400 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Official: 2024 in review (details inside)
+2025-01-26 13:00:12,028 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: Manufacture Focus: 5 Simple Steps When You Have More Work Than Time
+2025-01-26 13:00:12,592 - INFO - Processed email from: "Stake.com" <noreply@mail.stake.com>, subject: Big matches, big moments, big wins on Stake today!
+2025-01-26 13:00:13,478 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Saturday, January 18, 2025
+2025-01-26 13:00:13,948 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Supreme Court upholds TikTok ban-or-sale law slated to start Sunday
+2025-01-26 13:00:14,420 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: This Hedge Fund Created an Excel on Steroids
+2025-01-26 13:00:15,064 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Today's Tactical Play: AI & Health Breakthrough \u2b50
+2025-01-26 13:00:15,572 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Have you heard about our US99¢ sale?
+2025-01-26 13:00:16,385 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Friday, January 17, 2025
+2025-01-26 13:00:16,866 - INFO - Processed email from: BookMyShow <tickets@bookmyshow.email>, subject: Your Tickets
+2025-01-26 13:00:17,366 - INFO - Processed email from: Pinterest <recommendations@discover.pinterest.com>, subject: Wallpaper Quotes for Rudransh
+2025-01-26 13:00:17,892 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Who could be targeted in Trump’s mass deportation effort
+2025-01-26 13:00:18,363 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: A “Reverse-Split” Stock You Need to See \U0001f440
+2025-01-26 13:00:18,897 - INFO - Processed email from: Pinterest <recommendations@discover.pinterest.com>, subject: Rudransh, you'd vibe with this
+2025-01-26 13:00:19,396 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Get every update for US99¢
+2025-01-26 13:00:19,987 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Thursday, January 16, 2025
+2025-01-26 13:00:20,551 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Markets are soaring \U0001f985, and I’ve got a killer idea for tomorrow
+2025-01-26 13:00:21,019 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Minister accused of sex abuse landed one high-profile job after another
+2025-01-26 13:00:21,616 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: The first AI capable of hacking human performance? \U0001f3c3
+2025-01-26 13:00:22,540 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Wednesday, January 15, 2025
+2025-01-26 13:00:23,067 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Is SBI PO better than an IT job?
+2025-01-26 13:00:23,520 - INFO - Processed email from: Pinterest <recommendations@discover.pinterest.com>, subject: Inspired by Rudransh
+2025-01-26 13:00:24,099 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: My new ‘tactical trade’ might trump everything
+2025-01-26 13:00:24,692 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: MGMT Minute: Why The Best Leaders Always Separate Design From People
+2025-01-26 13:00:25,200 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: What we learned from the Trump Jan. 6 report
+2025-01-26 13:00:25,818 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Solar Boom's Hidden Opportunity \u2600\ufe0f\u26a1
+2025-01-26 13:00:26,283 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Our US99¢ sale is here
+2025-01-26 13:00:27,183 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Tuesday, January 14, 2025
+2025-01-26 13:00:27,664 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Bullseye Hits a Homerun \u26be
+2025-01-26 13:00:28,156 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: How New Orleans failed to protect Bourbon Street from attack, block by block
+2025-01-26 13:00:28,617 - INFO - Processed email from: Google <no-reply@accounts.google.com>, subject: Security alert
+2025-01-26 13:00:29,237 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Solar, Crypto, EVs—This Company Does It All \u2600\ufe0f
+2025-01-26 13:00:29,706 - INFO - Processed email from: Google <no-reply@accounts.google.com>, subject: Security alert
+2025-01-26 13:00:30,162 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Start reading for US99¢
+2025-01-26 13:00:30,703 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Monday, January 13, 2025
+2025-01-26 13:00:31,179 - INFO - Processed email from: Google <no-reply@accounts.google.com>, subject: Security alert
+2025-01-26 13:00:31,730 - INFO - Processed email from: Pinterest <recommendations@inspire.pinterest.com>, subject: Cute Texts for Rudransh
+2025-01-26 13:00:32,297 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Why Traders Are Watching This Energy Stock \u26a1
+2025-01-26 13:00:32,848 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Market eating your shorts \U0001fa73
+2025-01-26 13:00:33,309 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Not far from fires, life somehow goes on. Here’s what it’s like.
+2025-01-26 13:00:33,855 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Snacking Reimagined Through AI
+2025-01-26 13:00:34,612 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Sunday, January 12, 2025
+2025-01-26 13:00:35,084 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Why Los Angeles was unprepared for fire
+2025-01-26 13:00:35,558 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Man uses AI to apply for 1,000 jobs in sleep, lands 50 interview calls in a month
+2025-01-26 13:00:36,788 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Journey Update \u2705
+2025-01-26 13:00:37,386 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: The 7 Factors That Ultimately Determine Team Success
+2025-01-26 13:00:38,253 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Saturday, January 11, 2025
+2025-01-26 13:00:38,723 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Gamechanger Alert: Today’s Top Stock Move \U0001f9e0
+2025-01-26 13:00:39,192 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Arguments over TikTok ban pit free speech against security
+2025-01-26 13:00:39,729 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: FDA Approval Pathway: Major News Inside \U0001f525
+2025-01-26 13:00:40,526 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Friday, January 10, 2025
+2025-01-26 13:00:41,071 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: This Chart Tells the Whole Story \U0001f5bc\ufe0f
+2025-01-26 13:00:41,617 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Biden delivers eulogy at Jimmy Carter’s funeral
+2025-01-26 13:00:42,170 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Like “Shooting Fish in a Barrel” \U0001f420
+2025-01-26 13:00:43,058 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Thursday, January 9, 2025
+2025-01-26 13:00:43,511 - INFO - Processed email from: MakeMyTrip <no-reply@zen2-makemytrip.com>, subject: How was your experience with MakeMyTrip?
+2025-01-26 13:00:44,065 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: OKYO makes a big 23% move already
+2025-01-26 13:00:44,555 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Three wildfires rip through Los Angeles as hurricane-force wind gusts spread flames
+2025-01-26 13:00:45,158 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Biotech’s Hidden Gem? You Decide \U0001f50e
+2025-01-26 13:00:45,981 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Wednesday, January 8, 2025
+2025-01-26 13:00:46,565 - INFO - Processed email from: Google Gemini <google-gemini-noreply@google.com>, subject: Hey Rudransh, welcome to Gemini
+2025-01-26 13:00:47,058 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: It’s All About Timing... And Tomorrow \u23f0
+2025-01-26 13:00:47,561 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: We analyzed dozens of ultra-processed foods. Here are the healthiest options.
+2025-01-26 13:00:48,141 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: One of Last Year’s Biggest Stocks is On the Move Again
+2025-01-26 13:00:49,021 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Tuesday, January 7, 2025
+2025-01-26 13:00:49,535 - INFO - Processed email from: Google Gemini <google-gemini-noreply@google.com>, subject: You’re now using Gemini on web
+2025-01-26 13:00:50,066 - INFO - Processed email from: Pinterest <recommendations@discover.pinterest.com>, subject: Rudransh, these ideas are so you
+2025-01-26 13:00:50,577 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: The Trading Opportunity You’ve Been Waiting For \U0001f4a1
+2025-01-26 13:00:51,051 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Trump aides ready ‘universal’ tariff plans — with one key change
+2025-01-26 13:00:51,610 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Live 2025 Market Run-Down happening in 3...2..
+2025-01-26 13:00:52,276 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Monday, January 6, 2025
+2025-01-26 13:00:52,735 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: This town was built on migrants’ cash. Now it fears Trump’s deportations.
+2025-01-26 13:00:53,276 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: My FIRST 2025 Trade of the Week Goes Live Monday
+2025-01-26 13:00:53,745 - INFO - Processed email from: Google <no-reply@accounts.google.com>, subject: Security alert
+2025-01-26 13:00:54,272 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Sunday, January 5, 2025
+2025-01-26 13:00:54,718 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Jimmy Carter’s final trip begins with procession through rural Georgia
+2025-01-26 13:00:55,189 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Even de Jesus is excited about this \U0001f3af
+2025-01-26 13:00:55,989 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Saturday, December 4, 2025
+2025-01-26 13:00:56,476 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: My last Monday pick almost doubled in 3 hours...
+2025-01-26 13:00:56,955 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: House to vote on speaker as Mike Johnson hopes to keep gavel
+2025-01-26 13:00:57,730 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Friday, January 3, 2025
+2025-01-26 13:00:58,207 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Un-American to short the Market on Day 1 \U0001f4c9
+2025-01-26 13:00:58,677 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: 10 policies Republicans could use to pay for new tax cuts
+2025-01-26 13:00:59,153 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: This US$20 offer expires soon
+2025-01-26 13:00:59,918 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Thursday, January 2, 2025
+2025-01-26 13:01:00,383 - INFO - Processed email from: MakeMyTrip <mmtbusiness@makemytrip.com>, subject: Review your recent stay at Home Town Galleria Manipal and earn rewards!
+2025-01-26 13:01:00,949 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: My Next 52 Picks
+2025-01-26 13:01:01,474 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: At least 10 killed, dozens injured in New Orleans as driver intentionally plows into crowd
+2025-01-26 13:01:01,944 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Our US$20 sale ends soon
+2025-01-26 13:01:02,468 - INFO - Processed email from: Pinterest <recommendations@explore.pinterest.com>, subject: Rudransh, you'll love these
+2025-01-26 13:01:03,000 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Why I feed the ducks on the way up \U0001f986
+2025-01-26 13:01:03,461 - INFO - Processed email from: MakeMyTrip <noreply@makemytrip.com>, subject: Tax Invoice for your Hotel Booking id NH75190366090912
+2025-01-26 13:01:03,950 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Why the world needs lazier robots
+2025-01-26 13:01:04,442 - INFO - Processed email from: LinkedIn <security-noreply@linkedin.com>, subject: Here's your verification code 843253
+2025-01-26 13:01:04,936 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: I ended the year with something NEW\U0001f4a5
+2025-01-26 13:01:05,427 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: What’s out and what’s in for 2025? The trends to watch.
+2025-01-26 13:01:05,932 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: The Emerging AI-Driven “Intention Economy”: A Gold Rush for Your Mind
+2025-01-26 13:01:06,523 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: MGMT Reprise: Our 12 Most Popular Playbooks of 2024
+2025-01-26 13:01:07,038 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Kicking Off the Week with a\u26a1 Lithium Power Play
+2025-01-26 13:01:07,552 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Just like 2024, our US$20 sale ends soon
+2025-01-26 13:01:08,349 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Monday, December 30, 2024
+2025-01-26 13:01:08,831 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: This one is flying under the radar \U0001f6ec
+2025-01-26 13:01:09,380 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Plane crash at South Korean airport kills 179 with two survivors
+2025-01-26 13:01:09,974 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Microsoft and OpenAI have a financial definition of AGI: Report
+2025-01-26 13:01:10,480 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: This US$20 sale is our last of 2024
+2025-01-26 13:01:10,983 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: TikTok’s stay of execution \u2620\ufe0f
+2025-01-26 13:01:11,476 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: ‘Baby in a dumpster.’ A spate of abandoned newborns unsettles Texas.
+2025-01-26 13:01:12,086 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: ChatGPT Search Can Be Tricked into Misleading Users, New Research Reveals
+2025-01-26 13:01:12,945 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: A MAGA ‘Civil War’ on X between Musk and the far right over H-1B visas
+2025-01-26 13:01:13,545 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: "Godfather of AI" Warns of 20% Chance of Human Extinction
+2025-01-26 13:01:14,049 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: This Idea’s Explosive \U0001f4a5 Run Continues
+2025-01-26 13:01:14,558 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Get your first year for US$20
+2025-01-26 13:01:15,071 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Wild moves today, and it’s not over.
+2025-01-26 13:01:16,108 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: WISA Makes 10% Surge Already
+2025-01-26 13:01:16,654 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: These low-income Trump voters hope he doesn’t slash their benefits
+2025-01-26 13:01:17,312 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: The Rise of Out-of-Control AI: A Warning from the “Living Nostradamus
+2025-01-26 13:01:17,949 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: My hottest play for the Santa Rally \U0001f385\U0001f3fb
+2025-01-26 13:01:18,481 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: End-of-year blues? This US$20 sale is for you.
+2025-01-26 13:01:19,045 - INFO - Processed email from: Pinterest <recommendations@discover.pinterest.com>, subject: Inspired by Rudransh
+2025-01-26 13:01:19,566 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Merry Christmas! \U0001f385\U0001f3fb\U0001f384\U0001f381
+2025-01-26 13:01:20,044 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Can you guess the snowiest place on Earth?
+2025-01-26 13:01:20,598 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Large Quantitative Models (LQMs): The Next Frontier of Artificial Intelligence
+2025-01-26 13:01:21,181 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: I have Stage 4 lung cancer. These survivors give me hope.
+2025-01-26 13:01:21,766 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Can AI Predict Your Breakup? The Dilemma of Love, Data, and Agency
+2025-01-26 13:01:22,279 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Santa Rally? ONCY’s Taking Off—Don’t Miss Out! \U0001f680
+2025-01-26 13:01:22,887 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Tuesday, December 24, 2024
+2025-01-26 13:01:23,417 - INFO - Processed email from: BookMyShow <no-reply@entertainment.bookmyshow.com>, subject: Varun Dhawan \U0001f91d Atlee \u2192 Now THAT’S an explosive duo \U0001f525
+2025-01-26 13:01:24,003 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: House Ethics report says Matt Gaetz regularly paid for sex, including payment to an underage girl
+2025-01-26 13:01:24,487 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: An AI has started to “taste” colors and shapes—something more human than it seems.
+2025-01-26 13:01:24,992 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Reversals, Rallies and Big Biotech Moves \U0001f4c8
+2025-01-26 13:01:25,483 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: This US$20 deal is waiting to be bought
+2025-01-26 13:01:25,980 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Monday, December 23, 2024
+2025-01-26 13:01:26,532 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: New Trade Idea Dropping Tomorrow—Are You Ready? \u23f0
+2025-01-26 13:01:27,019 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: OpenAI announces new o3 models
+2025-01-26 13:01:27,564 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: ‘They were prison camps’: At least 3,100 Native American students died at U.S.-run boarding schools
+2025-01-26 13:01:28,279 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Sunday, December 22, 2024
+2025-01-26 13:01:28,776 - INFO - Processed email from: Google <no-reply@google.com>, subject: \u2705 Rudransh, finish setting up your Apple iPhone device with the latest Google apps
+2025-01-26 13:01:29,234 - INFO - Processed email from: Google <no-reply@accounts.google.com>, subject: Security alert
+2025-01-26 13:01:29,810 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Tech Titans to Invest $300 Billion in AI by 2025: Nvidia Could Emerge as the Biggest Winner
+2025-01-26 13:01:30,333 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Trump’s claims of a mandate run into reality of narrow majorities
+2025-01-26 13:01:30,904 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: When break-even is a WIN \U0001f3c6
+2025-01-26 13:01:31,517 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: How Smart Leaders Productively and Collaboratively Define Boundaries
+2025-01-26 13:01:32,306 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Saturday, December 21, 2024
+2025-01-26 13:01:32,782 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Why sea level rise is skyrocketing across the U.S. South
+2025-01-26 13:01:33,281 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: How AI Got a Reality Check
+2025-01-26 13:01:33,828 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: \U0001f50eHeavy hitter trade lined up
+2025-01-26 13:01:34,311 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: US$20 for your first year? Yes, please.
+2025-01-26 13:01:35,184 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Friday, December 20, 2024
+2025-01-26 13:01:35,647 - INFO - Processed email from: Pinterest <recommendations@inspire.pinterest.com>, subject: Photography Tips for Rudransh
+2025-01-26 13:01:36,152 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: [Attached] Your new plans for the morning\u270f\ufe0f
+2025-01-26 13:01:36,646 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: The U.S. seized a Russian yacht. Now you’re paying for it.
+2025-01-26 13:01:37,224 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Will AI Transform Accounting ? A $100B Opportunity Explained
+2025-01-26 13:01:37,702 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Using Keltner Channels to avoid market carnage
+2025-01-26 13:01:38,193 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Save big with our US$20 sale
+2025-01-26 13:01:38,936 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Thursday, December 19, 2024
+2025-01-26 13:01:39,402 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: How a police chief groomed a Texas town
+2025-01-26 13:01:39,899 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: How China Is Challenging Elon Musk’s Starlink Satellite Service
+2025-01-26 13:01:40,365 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: \U0001f920 Is there a new sheriff in town?
+2025-01-26 13:01:41,156 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Wednesday, December 18, 2024
+2025-01-26 13:01:41,706 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Which states require fluoride in water and how RFK Jr. could influence it
+2025-01-26 13:01:42,304 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: What are AI Agents?
+2025-01-26 13:01:42,821 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Top Pharma Pick: $1 Stock on the Move \U0001f525
+2025-01-26 13:01:43,332 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Our US$20 sale is live
+2025-01-26 13:01:44,054 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Tuesday, December 17, 2024
+2025-01-26 13:01:44,530 - INFO - Processed email from: LinkedIn <security-noreply@linkedin.com>, subject: Confirm your email address
+2025-01-26 13:01:45,027 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Time to RIOT \u270a
+2025-01-26 13:01:45,497 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: Monday MGMT Minute: Engineer Better Performance With Elon Musk's 5-Step Process
+2025-01-26 13:01:46,019 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: The practices fueling anger at U.S. health insurers
+2025-01-26 13:01:46,491 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Apple's AI Sparks Chaos: BBC Reacts to Shocking False Claim
+2025-01-26 13:01:47,008 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Is this “Mini-Tesla” Ready to Run? \U0001f697
+2025-01-26 13:01:47,476 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Did someone say US$20 for your first year?
+2025-01-26 13:01:48,057 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Monday, December 16, 2024
+2025-01-26 13:01:48,643 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Where’s the Momentum? Let’s Find Out
+2025-01-26 13:01:49,160 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: The Hidden Autopilot Data That Reveals Why Teslas Crash
+2025-01-26 13:01:49,650 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: \U0001f3afBullseye - My Week in Review
+2025-01-26 13:01:50,117 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Trump’s CDC pick wouldn’t let go of false theory vaccines cause autism
+2025-01-26 13:01:50,679 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Sunday, December 15, 2024
+2025-01-26 13:01:51,166 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: ELF calls ... money \U0001f911
+2025-01-26 13:01:51,650 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Trump eyes privatizing U.S. Postal Service, citing financial losses
+2025-01-26 13:01:52,181 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Reasoning AI Models: The Overthinkers of the AI World?
+2025-01-26 13:01:52,724 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Like “Shooting Fish in a Barrel” \U0001f420
+2025-01-26 13:01:53,534 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Saturday, December 14, 2024
+2025-01-26 13:01:54,086 - INFO - Processed email from: Pinterest <recommendations@inspire.pinterest.com>, subject: Rudransh, feels like your style
+2025-01-26 13:01:54,572 - INFO - Processed email from: The Google Workspace Team <workspace-noreply@google.com>, subject: Annual Reminder about Google Terms and Policies
+2025-01-26 13:01:55,067 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Assad lived in quiet luxury while Syrians went hungry
+2025-01-26 13:01:55,557 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Devin just came to take your software job... will code for $8/hr
+2025-01-26 13:01:56,036 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Even if my Cowboys stink I will find something to I root for
+2025-01-26 13:01:56,650 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Friday, December 13, 2024
+2025-01-26 13:01:57,192 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: The Postal Service’s electric mail trucks are way behind schedule
+2025-01-26 13:01:58,412 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: AI chatbot advises teen to kill parents for limiting screen time, calls it a ‘reasonable response’
+2025-01-26 13:01:58,993 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: This Stock Could Reshape an Industry \U0001f31f
+2025-01-26 13:01:59,777 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Thursday, December 12, 2024
+2025-01-26 13:02:00,355 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Goldilocks CPI + Santa Rally = Big Opportunities
+2025-01-26 13:02:00,922 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Why AI Can't Exist Without Taiwan
+2025-01-26 13:02:01,384 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: How go-karting has become a multi-million dollar path to F1 racing
+2025-01-26 13:02:01,917 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Breaking Out? This Chart Says It All \U0001f4ca
+2025-01-26 13:02:02,517 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Wednesday, December 11, 2024
+2025-01-26 13:02:02,988 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: What Buffett and Bond have in common \U0001f3b0
+2025-01-26 13:02:03,512 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Sora Turbo Just Broke the Internet—Here’s Why
+2025-01-26 13:02:04,041 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: How online predators pushed a man to take his life on camera
+2025-01-26 13:02:04,510 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: What’s your Newsprint reader type?
+2025-01-26 13:02:04,970 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Today’s Tactical Trade: NASA-Backed Success \U0001f30c\U0001f4ca
+2025-01-26 13:02:05,567 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Tuesday, December 10, 2024
+2025-01-26 13:02:06,118 - INFO - Processed email from: "Stake.com" <noreply@mail.stake.com>, subject: Exciting new crypto purchase options on Stake.com
+
+2025-01-26 13:02:06,699 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Options Gains & Pharma Pop — What’s Next? \U0001f9d0
+2025-01-26 13:02:07,189 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: Monday MGMT Minute: Why RTO Won't Fix Cultural Rot
+2025-01-26 13:02:07,661 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: LGBTQ+ Americans stockpile meds and make plans to move after Trump’s win
+2025-01-26 13:02:08,407 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Monday, December 9, 2024
+2025-01-26 13:02:08,903 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Top Setup of the Day? Watch This \U0001f525
+2025-01-26 13:02:10,223 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Did this secure a rate cut next week? \u2702\ufe0f
+2025-01-26 13:02:10,733 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: ChatGPT Allegedly Deceives Developers to Avoid Shutdown
+2025-01-26 13:02:11,217 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Rebels in Damascus claim victory; Assad has left country, Russia says
+2025-01-26 13:02:11,766 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: \U0001f465 Friends don’t let friends trade alone
+2025-01-26 13:02:12,574 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Sunday, December 8, 2024
+2025-01-26 13:02:13,059 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Is the 49.8 LPA salary in Delhi too low for a 26-year-old software engineer?
+2025-01-26 13:02:13,546 - INFO - Processed email from: Pinterest <recommendations@inspire.pinterest.com>, subject: Rudransh, you'd vibe with this
+2025-01-26 13:02:14,132 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: A Service that Compliments Bullseye Perfectly  \U0001f3af
+2025-01-26 13:02:14,704 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: How AI Is Breaking the Rules of Biology
+2025-01-26 13:02:15,215 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Why so many Americans prefer sprawl to walkable neighborhoods
+2025-01-26 13:02:15,715 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Win rates are nice...
+2025-01-26 13:02:16,196 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: 10 Questions To Ask When Your Team Keeps Missing Deadlines
+2025-01-26 13:02:16,885 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Saturday, December 7, 2024
+2025-01-26 13:02:17,363 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Are successful traders capitalists?
+2025-01-26 13:02:17,845 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Notre Dame reopens. See what’s changed.
+2025-01-26 13:02:18,363 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Elon’s Latest Rival? You Decide \U0001f697\U0001f50d
+2025-01-26 13:02:19,197 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Friday, December 6, 2024
+2025-01-26 13:02:19,746 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: \u26d4\U0001f9d1\u200d\U0001f384Was that IT for the Santa rally?
+2025-01-26 13:02:20,251 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Here’s what happened the last time Trump moved federal jobs out of D.C.
+2025-01-26 13:02:21,075 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Thursday, December 5, 2024
+2025-01-26 13:02:21,554 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: UnitedHealthcare CEO Brian Thompson fatally shot in ‘brazen, targeted attack’
+2025-01-26 13:02:22,066 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Is this the breakout we've been waiting for?
+2025-01-26 13:02:22,519 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Last call: Our US99¢ sale ends tonight
+2025-01-26 13:02:23,091 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Wednesday, December 4, 2024
+2025-01-26 13:02:23,641 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: \u26beToday was a solid base hit. Let’s talk tomorrow
+2025-01-26 13:02:24,131 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: South Korea president declares martial law to overcome opposition party
+2025-01-26 13:02:24,642 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: News with Elon’s “X” is Driving This Stock Higher
+2025-01-26 13:02:25,160 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Our US99¢ sale ends soon
+2025-01-26 13:02:25,675 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Tuesday, December 3, 2024
+2025-01-26 13:02:26,173 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: \U0001f385\U0001f3fb Santa Rally Strikes Again: Fresh Highs for the Markets
+2025-01-26 13:02:26,649 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: She believed she was an FBI ‘asset.’ The scam drained her life’s savings.
+2025-01-26 13:02:27,110 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: Monday MGMT Minute: Avoid The 'What-If' Trap
+2025-01-26 13:02:27,654 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Is this the Chart of the Year? \U0001f4c8
+2025-01-26 13:02:28,131 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Make Monday count with this US99¢ deal
+2025-01-26 13:02:28,884 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Monday, December 2, 2024
+2025-01-26 13:02:29,388 - INFO - Processed email from: Pinterest <pinterest-recommendations@ideas.pinterest.com>, subject: Rudransh, these ideas are so you
+2025-01-26 13:02:29,931 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Santa Rally is in FULL SWING! \U0001f9d1\u200d\U0001f384
+2025-01-26 13:02:30,429 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Elon Musk files for injunction to halt OpenAI’s transition to a for-profit
+2025-01-26 13:02:30,975 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Mar-a-Lago becomes a magnet for foreign leaders, haunting Biden’s final acts
+2025-01-26 13:02:31,777 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Sunday, December 1, 2024
+2025-01-26 13:02:32,383 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: How The Last Month of This Year Can Setup a Winning 2025
+2025-01-26 13:02:32,883 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: What are Large Language Models (LLMs)?
+2025-01-26 13:02:33,367 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: What Putin’s nuclear-capable Oreshnik missile means for NATO security
+2025-01-26 13:02:33,917 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: “Shooting Fish in a Barrel” Options Strategy
+2025-01-26 13:02:34,484 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Saturday, November 30, 2024
+2025-01-26 13:02:34,982 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: What Are Generative AI Models?
+2025-01-26 13:02:35,588 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: This Firecracker is Ready to POP \U0001f9e8
+2025-01-26 13:02:36,034 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Black Friday savings start with our US99¢ sale.
+2025-01-26 13:02:36,833 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Friday, November 29, 2024
+2025-01-26 13:02:37,404 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Watch this “Friday Firecracker” \U0001f9e8
+2025-01-26 13:02:37,871 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: AI vs ML: What's the Difference?
+2025-01-26 13:02:38,369 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Give Thanksgiving leftovers new life in soup, sandwiches and more
+2025-01-26 13:02:38,879 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: The first strategy I taught this brand new trader
+2025-01-26 13:02:40,210 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: OPENAI:\U0001f631 OpenAI’s Sora video model leaked
+2025-01-26 13:02:40,729 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: See how a lab-grown diamond is made
+2025-01-26 13:02:41,231 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: What is youth without few bad choices
+2025-01-26 13:02:41,931 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Wednesday, November 27, 2024
+2025-01-26 13:02:42,496 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Tiny Robot ‘Kidnaps’ 12 Big Bots in Shanghai: A Shocking AI Experiment
+2025-01-26 13:02:42,979 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: These batteries could harness the wind and sun to replace coal and gas
+2025-01-26 13:02:43,609 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Is This the Next Smartphone Killer? \U0001f4f1
+2025-01-26 13:02:44,087 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Love saving? You’ll love our US99¢ sale.
+2025-01-26 13:02:44,585 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Tuesday, November 26, 2024
+2025-01-26 13:02:45,043 - INFO - Processed email from: Pinterest <recommendations@explore.pinterest.com>, subject: Tattoo for Rudransh
+2025-01-26 13:02:45,611 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Can AI Compose Your Next Hit Song?
+2025-01-26 13:02:46,087 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Santa Rally \U0001f385\U0001f3fb Kicks Off with a Bang
+2025-01-26 13:02:46,577 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Inside your body, aging unfolds at remarkably different rates
+2025-01-26 13:02:47,065 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: Monday MGMT Minute: How to Think About Risk
+2025-01-26 13:02:47,564 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Semiconductors Are Booming — Meet the Hidden Gem Up 26%
+2025-01-26 13:02:48,444 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Monday, November 25, 2024
+2025-01-26 13:02:48,948 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Semiconductors Are on Fire \U0001f525 - Don’t Neglect This Opportunity
+2025-01-26 13:02:49,437 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Starting to gamble a little bit more... we’ll see\U0001f91e
+2025-01-26 13:02:50,007 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Google’s Worst Nightmare: OpenAI’s Plan to Dominate Browsing
+2025-01-26 13:02:50,490 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Trump is coming for the executive branch. He seems motivated by retribution rather than efficiency.
+2025-01-26 13:02:51,044 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Sunday, November 24, 2024
+2025-01-26 13:02:51,626 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Jay's new $2,000 trading challenge
+2025-01-26 13:02:52,145 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: The CEO Coach's Corner: Steal These Lessons From Real C-Suite Leaders
+2025-01-26 13:02:52,678 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Sharp elbows and raised voices: Inside Trump’s bumpy transition
+2025-01-26 13:02:53,247 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: New York Times Says OpenAI Erased Potential Lawsuit Evidence
+2025-01-26 13:02:54,132 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Saturday, November 23, 2024
+2025-01-26 13:02:54,607 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Meet Lucy, the celebrity of fossils, who changed our view of evolution
+2025-01-26 13:02:55,078 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: SOARing into the Weekend: My Tactical Trade of the Day
+2025-01-26 13:02:55,550 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Start reading for US99¢
+2025-01-26 13:02:56,431 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Friday, November 22, 2024
+2025-01-26 13:02:56,972 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: NVDA Turns Green, My Picks Skyrocket – What’s Next Tomorrow?
+2025-01-26 13:02:57,470 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Police records reveal new details about sexual assault allegation against Pete Hegseth
+2025-01-26 13:02:57,935 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Monster Run on 0dtes\U0001f57a\U0001f483\U0001f4a5
+2025-01-26 13:02:58,428 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Our US99¢ sale starts now.
+2025-01-26 13:02:59,122 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Thursday, November 21, 2024
+2025-01-26 13:02:59,589 - INFO - Processed email from: MakeMyTrip <noreply@makemytrip.com>, subject: Your Booking Confirmation Voucher for Home Town Galleria Manipal
+2025-01-26 13:03:00,061 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: You shouldn’t upload your medical images to AI chatbots
+2025-01-26 13:03:00,526 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: RFK Jr. wants fluoride out of drinking water. Oregon shows what’s coming.
+2025-01-26 13:03:00,988 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Funding Secured—Is This Stock Undervalued? \U0001f4b5
+2025-01-26 13:03:01,494 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Wednesday, November 20, 2024
+2025-01-26 13:03:01,987 - INFO - Processed email from: Pinterest <recommendations@discover.pinterest.com>, subject: Matching Tattoo for Rudransh
+2025-01-26 13:03:02,493 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Tomorrow’s Momentum Play You Can’t Ignore \U0001f552
+2025-01-26 13:03:02,976 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: The upcoming housing battle that could roil mortgage costs even more
+2025-01-26 13:03:03,489 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Bohen's #1 Ticker for the Trump Rally
+2025-01-26 13:03:04,114 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Tuesday, November 19, 2024
+2025-01-26 13:03:04,672 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: How does a 1% move qualify as "off to the races" \U0001f3c7
+2025-01-26 13:03:05,198 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: A century later, a taped message solves the mystery of a WWI doughboy’s death
+2025-01-26 13:03:05,735 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: Monday MGMT Minute: Question Your Reality
+2025-01-26 13:03:06,557 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Monday, November 18, 2024
+2025-01-26 13:03:07,052 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Bye Bye META \U0001f44b
+2025-01-26 13:03:07,600 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: 'Propaganda machine': Sam Altman mocks Elon Musk's AI model for Kamala Harris answer
+2025-01-26 13:03:08,091 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Defense pick Hegseth paid accuser but denies sexual assault, attorney says
+2025-01-26 13:03:08,640 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: This is a no-brainer \U0001f6ab\U0001f9e0
+2025-01-26 13:03:09,173 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: The Elon Musk vs. OpenAI Emails: What We Learned
+2025-01-26 13:03:09,777 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Sunday, November 17, 2024
+2025-01-26 13:03:10,273 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Democrats, reeling from election losses, cast blame on each other
+2025-01-26 13:03:10,776 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: ‘Please Die’: The Shocking Failure of AI Oversight
+2025-01-26 13:03:11,259 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: Boost Your Business Today with Proven Principles from 16 Classic Books
+2025-01-26 13:03:12,142 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Saturday, November 16, 2024
+2025-01-26 13:03:12,619 - INFO - Processed email from: MakeMyTrip <noreply@makemytrip.com>, subject: Your Booking Confirmation Voucher for Home Town Galleria Manipal
+2025-01-26 13:03:13,080 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Inside the Republican false-flag effort to turn off Kamala Harris voters
+2025-01-26 13:03:13,619 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Big Day Coming for This $3 Stock \U0001f4c8
+2025-01-26 13:03:14,539 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Friday, November 15, 2024
+2025-01-26 13:03:15,027 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Tesla in Trouble? Market Reacts to Trump
+2025-01-26 13:03:15,502 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: A police chief was accused of paying $100 to rape a teen — and trying to cover it up.
+2025-01-26 13:03:15,981 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Cheer for India, let’s win the series! 
+
+2025-01-26 13:03:16,463 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Small-Cap at a Key Technical Level \U0001f4c8
+2025-01-26 13:03:16,930 - INFO - Processed email from: BookMyShow <no-reply@entertainment.bookmyshow.com>, subject: Will vengeance find its way to him? Find out!
+2025-01-26 13:03:17,440 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Thursday, November 14, 2024
+2025-01-26 13:03:17,930 - INFO - Processed email from: Pinterest <recommendations@inspire.pinterest.com>, subject: Phone Background for Rudransh
+2025-01-26 13:03:18,495 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Nate’s trading strategy: BTFD!
+2025-01-26 13:03:19,032 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: The U.S. is getting less snowy. See this winter’s forecast in your area.
+2025-01-26 13:03:19,534 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Biotech Quietly Thrives Amid Economic Jitters
+2025-01-26 13:03:20,365 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Wednesday, November 13, 2024
+2025-01-26 13:03:20,836 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: So the markets can bleed after all \U0001fa78
+2025-01-26 13:03:21,383 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Today’s tactical idea steadily climbing \U0001f680
+2025-01-26 13:03:21,871 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: As Trump prepares for mass deportations, Mexico is not ready
+2025-01-26 13:03:22,340 - INFO - Processed email from: Finset Research <finset@mail.beehiiv.com>, subject: Holdings Update: 22%+ avg. return in the past 3 months
+2025-01-26 13:03:22,843 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: A Disruptor in the Digital Ad Game \U0001f4a5
+2025-01-26 13:03:23,312 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Offer ends tonight: US50¢ a week for the first year
+2025-01-26 13:03:24,146 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Tuesday, November 12, 2024
+2025-01-26 13:03:24,616 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Impressed by TSLA? Bitcoin? This little stock outperformed both
+2025-01-26 13:03:25,159 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Hero Calls on CVNA & RIOT today\U0001f9b8
+2025-01-26 13:03:25,656 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Veterans find purpose in the devastated North Carolina mountains
+2025-01-26 13:03:26,175 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: Monday MGMT Minute: Getting Sign Off On Big Decisions
+2025-01-26 13:03:26,691 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Sale offer ends tomorrow: US50¢ a week for the first year
+2025-01-26 13:03:27,555 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Monday, November 11, 2024
+2025-01-26 13:03:28,125 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: OpenAI’s Flagship Model Just Hit a Wall—Can They Keep AI Advancing?
+2025-01-26 13:03:28,649 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Who I'm betting on today
+2025-01-26 13:03:29,132 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Democrats face a reckoning and a long rebuilding. There is no quick fix.
+2025-01-26 13:03:30,055 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Sunday, November 10, 2024
+2025-01-26 13:03:30,609 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Where the trees once stood
+2025-01-26 13:03:31,230 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: Playing 20 Questions: The Perfect Script To Size Up Your New Team
+2025-01-26 13:03:31,708 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: My NFLX trade plan [Inside]
+2025-01-26 13:03:32,173 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Get the facts for US50¢ a week for the first year
+2025-01-26 13:03:33,078 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Thursday, November 9, 2024
+2025-01-26 13:03:33,598 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Why did so many voters swing to the right?
+2025-01-26 13:03:34,108 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: The juice is loose - 0DTES ftw \U0001f4aa
+2025-01-26 13:03:34,803 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Friday, November 8, 2024
+2025-01-26 13:03:35,265 - INFO - Processed email from: Pinterest <recommendations@explore.pinterest.com>, subject: Inspired by Rudransh
+2025-01-26 13:03:35,735 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: A Rare Insider Move Worth Watching \U0001f440
+2025-01-26 13:03:36,199 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Need a distraction? We’ve got you covered.
+2025-01-26 13:03:36,687 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: ‘Everything is in play’ on tax cuts for Trump and Republicans in Congress
+2025-01-26 13:03:37,300 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Why Insiders Are Buying This Biotech Stock \U0001f9ec
+2025-01-26 13:03:37,777 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Join the Kabaddi action on Stake 
+
+2025-01-26 13:03:38,387 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Thursday, November 7, 2024
+2025-01-26 13:03:38,876 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Small-Cap Stock Leaves SPY in the Dust \U0001f32a\ufe0f
+2025-01-26 13:03:39,329 - INFO - Processed email from: MakeMyTrip <noreply@makemytrip.com>, subject: Your Booking Confirmation Voucher for Hotel Tranquil Manipal
+2025-01-26 13:03:39,814 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: How Donald Trump found his footing and fought his way back to the White House
+2025-01-26 13:03:40,361 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: That's a FLEX \U0001f4aa
+2025-01-26 13:03:40,833 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Trump Triumphs
+2025-01-26 13:03:41,398 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Thursday, November 6, 2024
+2025-01-26 13:03:41,871 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: We (finally) made it to U.S. Election Day. Now what?
+2025-01-26 13:03:42,361 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: NFLX: I buy and rebuy
+2025-01-26 13:03:42,844 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: It’s Election Day. Here’s what to know.
+2025-01-26 13:03:43,340 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Tuesday, November 5, 2024
+2025-01-26 13:03:43,826 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: If you CAN stomach big ups & downs...
+2025-01-26 13:03:44,362 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: GOP’s closing election message on health baffles strategists, worries experts
+2025-01-26 13:03:44,852 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: Monday MGMT Minute: Question Your Feedback
+2025-01-26 13:03:45,444 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Big Pharma Deal Shakes Up Pre-Market \U0001f680
+2025-01-26 13:03:46,017 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Monday, November 4, 2024
+2025-01-26 13:03:46,480 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Read for US$20 for the first year
+2025-01-26 13:03:46,941 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Fed + Election = Market Moves to Watch \U0001f50d
+2025-01-26 13:03:47,426 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: can we trust AI web searches?
+2025-01-26 13:03:47,914 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Harris’s team claims she’s no longer the underdog, but Trump team scoffs
+2025-01-26 13:03:48,469 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Sunday, November 3, 2024
+2025-01-26 13:03:49,239 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Gear Up for November's Sports Calendar!
+
+2025-01-26 13:03:49,774 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Efforts to combat disinformation in retreat as voters head to the polls
+2025-01-26 13:03:50,297 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Election Open House... Are You In?
+2025-01-26 13:03:50,849 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Saturday, November 2, 2024
+2025-01-26 13:03:51,363 - INFO - Processed email from: Pinterest <pinterest-recommendations@ideas.pinterest.com>, subject: Hairstyles for Rudransh
+2025-01-26 13:03:51,856 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Chinese military researchers reportedly used Meta AI to develop defense chatbot
+2025-01-26 13:03:52,351 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Trump suggests ‘war hawk’ Liz Cheney should have guns ‘trained on her face’
+2025-01-26 13:03:52,846 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: \U0001f3afMy Top Three Trades
+2025-01-26 13:03:53,372 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Friday, November 1, 2024
+2025-01-26 13:03:53,832 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Get election-ready for US$20 for the first year
+2025-01-26 13:03:54,418 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: How to Build a Hiring Process That Finds Your Perfect Employee
+2025-01-26 13:03:54,912 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Road rage soars in an increasingly angry nation
+2025-01-26 13:03:55,397 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Day to swing to options - the progression of a trader \U0001f9d7
+2025-01-26 13:03:55,883 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Limited time offer: US$20 for the first year
+2025-01-26 13:03:56,465 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Thursday, October 31, 2024
+2025-01-26 13:03:56,991 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: They thought they found their dream home — so did thousands of bats
+2025-01-26 13:03:57,491 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Over 25% of Google software is written by AI, says CEO Sundar Pichai.
+2025-01-26 13:03:58,002 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Ozempic News Fuels This Stock’s Big Move \U0001f9ec
+2025-01-26 13:03:58,603 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Hot News Just Dropped \U0001f5de\ufe0f
+2025-01-26 13:03:59,069 - INFO - Processed email from: BookMyShow <no-reply@entertainment.bookmyshow.com>, subject: Diwali celebrations mein hoga dhamakaaaaa \U0001f4a5
+2025-01-26 13:03:59,651 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Wednesday, October 30, 2024
+2025-01-26 13:04:00,141 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Beating the Nasdaq: Here’s One to Watch
+2025-01-26 13:04:00,625 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: She said she had a miscarriage — then got arrested under an abortion law
+2025-01-26 13:04:01,186 - INFO - Processed email from: Finset Research <finset@mail.beehiiv.com>, subject: Expecting 70%+ with IMAX by 2026
+2025-01-26 13:04:01,707 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Small-Cap Momentum During Big Earnings Week
+2025-01-26 13:04:02,464 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Tuesday, October 29, 2024
+2025-01-26 13:04:02,959 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: TSLA trade case study
+2025-01-26 13:04:03,420 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Some billionaires, CEOs hedge bets as Trump vows retribution
+2025-01-26 13:04:03,933 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: The Monday MGMT Minute: Playing Games
+2025-01-26 13:04:04,516 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Scouting for Small-Cap Stars This Week \U0001f30c
+2025-01-26 13:04:05,031 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Monday, October 28, 2024
+2025-01-26 13:04:05,518 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Elon’s Surge, Earnings and a Hot New Pick \U0001f680
+2025-01-26 13:04:05,969 - INFO - Processed email from: YouTube <no-reply@youtube.com>, subject: Annual reminder about YouTube’s Terms of Service, Community Guidelines and Privacy Policy
+
+2025-01-26 13:04:06,505 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: In this sparsely populated state, focus is on the Senate, not the White House
+2025-01-26 13:04:06,694 - INFO - Inserted 500 emails into the database.
+2025-01-26 13:04:07,778 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Google is said to be working on an AI system that acts as a ‘computer-using agent.’
+2025-01-26 13:04:08,394 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Sunday, October 27, 2024
+2025-01-26 13:04:08,904 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: The HOT streak continues \u2668\ufe0f\u2668\ufe0f\u2668\ufe0f
+2025-01-26 13:04:09,438 - INFO - Processed email from: BookMyShow <tickets@bookmyshow.email>, subject: Your Tickets
+2025-01-26 13:04:09,925 - INFO - Processed email from: Pinterest <pinterest-recommendations@ideas.pinterest.com>, subject: Matching Tattoo for Rudransh
+2025-01-26 13:04:10,417 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Teen dies by suicide after forming attachment with CharacterAI chatbot
+2025-01-26 13:04:10,918 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Trump says domestic foes worse than Kim Jong Un during meandering Joe Rogan interview
+2025-01-26 13:04:11,406 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Epic Game 1\U0001f4a5
+2025-01-26 13:04:12,186 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Saturday, October 26, 2024
+2025-01-26 13:04:12,692 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: Employee Exit Velocity: How To Set Your Employees Up For Success
+2025-01-26 13:04:13,235 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: How Trump talks
+2025-01-26 13:04:13,693 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: I trade them ALL
+2025-01-26 13:04:14,208 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Friday, October 25, 2024
+2025-01-26 13:04:14,703 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: (Correction): The Post Most: See how your neighborhood is giving to Trump and Harris
+2025-01-26 13:04:15,200 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: See how your neighborhood is giving to Trump and Harris
+2025-01-26 13:04:15,796 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Thursday, October 24, 2024
+2025-01-26 13:04:16,342 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Big Partnership Deals Pushing This Stock Higher \U0001f4c8
+2025-01-26 13:04:16,857 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Ready for Action? Get Ready for this BIG Idea!
+2025-01-26 13:04:17,415 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: How a conspiracy-fueled group got a foothold in this hurricane-battered town
+2025-01-26 13:04:17,887 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: \U0001f9e0 AI reaches expert level in medical scans
+2025-01-26 13:04:18,400 - INFO - Processed email from: Finset Research <finset@mail.beehiiv.com>, subject: 75% Growth Expected from this CRM
+2025-01-26 13:04:19,624 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Ready for a Power Move? \U0001f680
+2025-01-26 13:04:20,221 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Wednesday, October 23, 2024
+2025-01-26 13:04:20,709 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Bill Gates Said This...
+2025-01-26 13:04:21,210 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: What to do about one of America’s last wild places
+2025-01-26 13:04:21,690 - INFO - Processed email from: Google <no-reply@accounts.google.com>, subject: Security alert
+2025-01-26 13:04:22,260 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Tuesday, October 22, 2024
+2025-01-26 13:04:22,762 - INFO - Processed email from: Big Basket <alerts@bigbasket.com>, subject: bigbasket - Email Change - OTP
+2025-01-26 13:04:23,301 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Finding great setups for trades <$20
+2025-01-26 13:04:23,810 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: A young teen gives birth. Idaho’s parental consent law snags her care.
+2025-01-26 13:04:24,275 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Time to make trading GREAT again \u2705
+2025-01-26 13:04:24,756 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: The Monday MGMT Minute: Three Strikes
+2025-01-26 13:04:25,341 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Monday, October 21, 2024
+2025-01-26 13:04:25,785 - INFO - Processed email from: Pallav N <pallavn@presentations.ai>, subject: Quick Feedback
+2025-01-26 13:04:26,255 - INFO - Processed email from: "Presentations.AI" <info@presentations.ai>, subject: Welcome to Presentations.AI
+2025-01-26 13:04:26,705 - INFO - Processed email from: "Presentations.AI" <info@presentations.ai>, subject: Welcome to Presentations.AI
+2025-01-26 13:04:27,169 - INFO - Processed email from: "Presentations.AI" <info@presentations.ai>, subject: Special Offer: Share Your Presentation with the World for Less!
+2025-01-26 13:04:27,662 - INFO - Processed email from: "Presentations.AI" <info@presentations.ai>, subject: Welcome to Presentations.AI
+2025-01-26 13:04:28,167 - INFO - Processed email from: "Presentations.AI" <info@presentations.ai>, subject: Welcome to Presentations.AI
+2025-01-26 13:04:28,645 - INFO - Processed email from: "Presentations.AI" <info@presentations.ai>, subject: Welcome to Presentations.AI
+2025-01-26 13:04:29,115 - INFO - Processed email from: Google <no-reply@accounts.google.com>, subject: Security alert
+2025-01-26 13:04:29,570 - INFO - Processed email from: Pinterest <recommendations@discover.pinterest.com>, subject: Phone Wallpaper for Rudransh
+2025-01-26 13:04:30,112 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Maybe “getting lucky” will magically work for you?
+2025-01-26 13:04:30,610 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: How AI is helping to decipher animal communication
+2025-01-26 13:04:31,147 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: A Pennsylvania road trip finds voters full of doubt, anger and unease
+2025-01-26 13:04:31,747 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Sunday, October 20, 2024
+2025-01-26 13:04:32,247 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: AI Detectors Falsely Accuse Students of Cheating—With Big Consequences
+2025-01-26 13:04:32,801 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Seeking a historic win, Harris faces a familiar foe: Sexism
+2025-01-26 13:04:33,379 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Best time to start trading a small account?
+2025-01-26 13:04:33,932 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Saturday, October 19, 2024
+2025-01-26 13:04:34,493 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: \U0001f4a5Latest small account journey locked in first win
+2025-01-26 13:04:35,046 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: The U.S.-Mexico border, the wall and the thousands of acres between them
+2025-01-26 13:04:35,507 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: I'm busy selling
+2025-01-26 13:04:36,015 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Our flash sale ends soon
+2025-01-26 13:04:36,546 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Friday, October 18, 2024
+2025-01-26 13:04:37,036 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Did You See This Huge Move? \u26a1
+2025-01-26 13:04:37,520 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: The MGMT Minute: Call It An Experiment
+2025-01-26 13:04:38,030 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Five key moments from Kamala Harris’s heated Fox News interview
+2025-01-26 13:04:38,513 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Watch This Tactical Move Unfold Today \U0001f440
+2025-01-26 13:04:39,304 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Thursday, October 17, 2024
+2025-01-26 13:04:39,862 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: You don’t see this too often \U0001f6a8
+2025-01-26 13:04:40,322 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: How Trump tariffs would shock U.S., world economies
+2025-01-26 13:04:40,899 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Breaking backtesting for success-driven traders
+2025-01-26 13:04:41,410 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: AI Can Only Do 5% of Jobs: MIT Economist Fears Crash
+2025-01-26 13:04:41,881 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Surprise! Our flash sale just went live.
+2025-01-26 13:04:42,413 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Wednesday, October 16, 2024
+2025-01-26 13:04:42,905 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Election stocks about to pop \U0001f4a5
+2025-01-26 13:04:43,371 - INFO - Processed email from: Finset Research <finset@mail.beehiiv.com>, subject: HIMS is up 28% in 2 weeks. Follow up.
+2025-01-26 13:04:43,865 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: A day-trader AND a contributing member of society (\U0001f448THIS)
+2025-01-26 13:04:44,371 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Market uncertainty bubbling higher
+2025-01-26 13:04:44,855 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Climate change may be coming for your house. Look up your level of risk.
+2025-01-26 13:04:45,351 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: \u2692\ufe0fHD proves you don’t have to buy tech stocks all the time
+2025-01-26 13:04:45,929 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Tuesday, October 15, 2024
+2025-01-26 13:04:46,479 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: \U0001f4c8 15 minute daily AI scan, watch live
+2025-01-26 13:04:46,971 - INFO - Processed email from: Pinterest <recommendations@discover.pinterest.com>, subject: Rudransh, this could be your vibe
+2025-01-26 13:04:47,479 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Filthy move by COIN \U0001fa99
+2025-01-26 13:04:47,980 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Rare options hedge delivers BIG
+2025-01-26 13:04:48,495 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Trump wages campaign against real-time fact checks
+2025-01-26 13:04:49,002 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: AI and ML Pose a Significant Risk to Financial Stability, Warns RBI Governor Shaktikanta Das
+2025-01-26 13:04:49,677 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Monday, October 14, 2024
+2025-01-26 13:04:50,169 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: [Live] How A.I. is beating the markets
+2025-01-26 13:04:50,666 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Federal flood maps underestimated risk in areas hit hardest by Hurricane Helene
+2025-01-26 13:04:51,165 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: The Rise of AI: Bots Overcoming Traffic-Image CAPTCHAs
+2025-01-26 13:04:51,672 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Money!? Not ready!? Trust!?
+2025-01-26 13:04:52,148 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Under-the-radar election stocks
+2025-01-26 13:04:52,762 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Sunday, October 13, 2024
+2025-01-26 13:04:53,253 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Reserved! Live AI Trading Bot Session
+2025-01-26 13:04:53,723 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: When AI Looked at Biology
+2025-01-26 13:04:54,216 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: When people need a ride home from prison, he’s waiting outside with a car
+2025-01-26 13:04:54,712 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: My #1 tool to find great trades\U0001f4c8
+2025-01-26 13:04:55,203 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Live AI Training, confirm email
+2025-01-26 13:04:56,055 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Saturday, October 12, 2024
+2025-01-26 13:04:56,510 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: \U0001f6a8Trial offer ends now
+2025-01-26 13:04:57,081 - INFO - Processed email from: Finset Research <finset@mail.beehiiv.com>, subject: 68% Expected return with this school bus manufacturer
+2025-01-26 13:04:57,579 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Eight years ago, Trump vowed to ‘drain the swamp.’ Now he swims in it.
+2025-01-26 13:04:58,046 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: This ends in 12 hours
+2025-01-26 13:04:58,552 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: \U0001f914Headed to an up-crash!?\ufe0f
+2025-01-26 13:04:59,158 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Friday, October 11, 2024
+2025-01-26 13:04:59,676 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Cpspaisa,  important information inside about Stake accessibility.
+
+2025-01-26 13:05:00,140 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: 24 hour flash special: Try me for 3 months
+2025-01-26 13:05:00,601 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: The Introverted Leaders Handbook: 5 Tips For Leading Loudly When You Prefer Quiet.
+2025-01-26 13:05:01,079 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Photos from Florida as Milton leaves a path of destruction
+2025-01-26 13:05:01,618 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: The 32,481% Boom: First disruption to $martphones in 15 years
+2025-01-26 13:05:02,125 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: \U0001f453 Smart Glasses Revolution – Are You In?
+2025-01-26 13:05:02,687 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Thursday, October 10, 2024
+2025-01-26 13:05:03,241 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Should I beg? The Last Dance
+2025-01-26 13:05:03,789 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Bases Loaded – Big Play Tomorrow! \u26be
+2025-01-26 13:05:04,282 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Numbers Time! Can You Afford This?
+2025-01-26 13:05:04,783 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: What is making Hurricane Milton so ferocious
+2025-01-26 13:05:05,288 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: How Sports Betting Can Make You Poor!
+2025-01-26 13:05:05,770 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Monday, it’s happening!
+2025-01-26 13:05:06,330 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Unpacking a Unique Opportunity Today! \U0001f440
+2025-01-26 13:05:06,870 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: Planet Golf News for Wednesday, October 9, 2024
+2025-01-26 13:05:07,345 - INFO - Processed email from: Pinterest <recommendations@discover.pinterest.com>, subject: Lock Screen Wallpaper for Rudransh
+2025-01-26 13:05:07,812 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Meet Your Guide: An Introduction to Duo Discover
+2025-01-26 13:05:09,026 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: \U0001f352AFRM, Cherry-Picked Trade Alert
+2025-01-26 13:05:09,526 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Bullseye Confirmed! Pending Details
+2025-01-26 13:05:10,007 - INFO - Processed email from: "Dave Kline @ MGMT Playbook" <mgmt@mail.beehiiv.com>, subject: You're Now A Part of the MGMT Playbook Community
+2025-01-26 13:05:10,521 - INFO - Processed email from: Jeff Bishop <bullseye@b.bullseyeoptiontrading.com>, subject: Your first Bullseye Trade alert! \U0001f3af
+2025-01-26 13:05:11,028 - INFO - Processed email from: Planet Golf News <newsletter@planetgolf.news>, subject: You drained it! You're In!
+2025-01-26 13:05:11,498 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: One last thing...
+2025-01-26 13:05:11,992 - INFO - Processed email from: Duo Discover <lifesyncmedia@mail.beehiiv.com>, subject: Welcome to Due Discover
+2025-01-26 13:05:12,468 - INFO - Processed email from: Salty Accessories <requests@judge.me>, subject: Hi Rudransh, share your thoughts about Swan Lake Black Earrings
+2025-01-26 13:05:12,975 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Trump secretly sent covid tests to Putin during 2020 shortage, new book says
+2025-01-26 13:05:13,435 - INFO - Processed email from: noreply@papeeria.com, subject: Papeeria email verification
+2025-01-26 13:05:13,932 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: How Hurricane Milton could devastate the Tampa Bay area
+2025-01-26 13:05:14,478 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: In North Carolina, there was before Helene. This is the after.
+2025-01-26 13:05:14,946 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: What's considered tall for a male?
+2025-01-26 13:05:15,435 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: What fueled Hurricane Helene and caused so much devastation
+2025-01-26 13:05:15,931 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: The reasons people say they leave Donald Trump’s rallies early
+2025-01-26 13:05:16,396 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Cpspaisa, Stake available through stake.bet.
+
+2025-01-26 13:05:16,957 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: The making of an alleged school shooter
+2025-01-26 13:05:17,415 - INFO - Processed email from: Pinterest <recommendations@discover.pinterest.com>, subject: Rudransh, you have a good eye
+2025-01-26 13:05:17,918 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: We asked swing-state voters who won the VP debate
+2025-01-26 13:05:18,394 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Tim Walz’s bubble-wrapped campaign
+2025-01-26 13:05:18,869 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Following the path of Helene’s devastation through maps and videos
+2025-01-26 13:05:19,342 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Post Most leave you wanting more?
+2025-01-26 13:05:19,802 - INFO - Processed email from: Salty Accessories <queries@salty.co.in>, subject: A shipment from order #325757 has been delivered
+2025-01-26 13:05:20,269 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Israel likely used U.S.-made 2,000-pound bombs in Nasrallah strike, visuals show
+2025-01-26 13:05:20,800 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: If I invest SIP 3000/month for 5 years and hold it for 20 years, what will be the exp...?
+2025-01-26 13:05:21,295 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: How Kamala Harris remade Joe Biden’s campaign and revived Democratic chances
+2025-01-26 13:05:21,774 - INFO - Processed email from: Salty Accessories <queries@salty.co.in>, subject: A shipment from order #325757 is on the way
+2025-01-26 13:05:22,265 - INFO - Processed email from: Salty Accessories <queries@salty.co.in>, subject: Order #325757 confirmed
+2025-01-26 13:05:22,732 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: JD Vance, in 2020 messages, said Trump ‘thoroughly failed to deliver’
+2025-01-26 13:05:23,204 - INFO - Processed email from: Pinterest <recommendations@explore.pinterest.com>, subject: Nail Design for Rudransh
+2025-01-26 13:05:23,666 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Indictment against Eric Adams reveals lengthy list of accusations
+2025-01-26 13:05:24,132 - INFO - Processed email from: Salty Accessories <queries@salty.co.in>, subject: Customer account confirmation
+2025-01-26 13:05:24,601 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Helene reaches hurricane strength on collision course with Florida coast
+2025-01-26 13:05:25,129 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Grocery chains are bigger than ever. See who runs the stores near you.
+2025-01-26 13:05:25,673 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: The ocean is eating away at this island. People are planning new condos.
+2025-01-26 13:05:26,159 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: In rural Wisconsin, a tangle of facts and fears over faraway refugees
+2025-01-26 13:05:26,627 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I received an offer from Accenture and requested changes in the location and joining ...?
+2025-01-26 13:05:27,166 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: How a grocery store fight fractured a Maryland town along racial lines
+2025-01-26 13:05:27,636 - INFO - Processed email from: Pinterest <recommendations@explore.pinterest.com>, subject: Wallpaper for Rudransh
+2025-01-26 13:05:28,117 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Pro-Trump Georgia election board votes to require hand counts of ballots
+2025-01-26 13:05:28,602 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: New audio disputes ruling that stripped Jordan Chiles of Olympic medal
+2025-01-26 13:05:29,087 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: More deadly blasts linked to electronic devices hit Lebanon
+2025-01-26 13:05:29,569 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Thousands injured in Lebanon as pagers used by Hezbollah explode
+2025-01-26 13:05:30,032 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Suspect in potential Trump assassination attempt charged with two gun-related crimes
+2025-01-26 13:05:30,583 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Taliban begins enforcing new draconian laws, and Afghan women despair
+2025-01-26 13:05:31,039 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: How much did you score in 12th board's?
+2025-01-26 13:05:31,543 - INFO - Processed email from: Pinterest <recommendations@explore.pinterest.com>, subject: Vintage Wallpaper for Rudransh
+2025-01-26 13:05:32,006 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Harris and Trump place their chips on different states to win White House
+2025-01-26 13:05:32,504 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: The ‘feral 25-year-olds’ making Kamala Harris go viral on TikTok
+2025-01-26 13:05:32,997 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Congressional Republicans try to hide from Trump’s debate performance
+2025-01-26 13:05:33,458 - INFO - Processed email from: Discord <noreply@discord.com>, subject: Verify Email Address for Discord
+2025-01-26 13:05:33,942 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Who won the Harris-Trump debate? We asked swing-state voters.
+2025-01-26 13:05:34,419 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I got a job offer with a CTC of 65.4 LPA in Gurgaon. My in-hand salary will be 3.3L p...?
+2025-01-26 13:05:34,898 - INFO - Processed email from: YUGOSMILE <store+84555301168@t.shopifyemail.com>, subject: Order #YS24518 confirmed
+2025-01-26 13:05:35,391 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Elon Musk’s misleading election claims reach millions and alarm election officials
+2025-01-26 13:05:35,862 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: A bullied teen found fame among child predators worldwide on social media
+2025-01-26 13:05:36,374 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Mother of Georgia suspect is said to have called school before shooting, warning of ‘emergency’
+2025-01-26 13:05:36,866 - INFO - Processed email from: Pinterest <activity@notifications.pinterest.com>, subject: Don't forget to accept Suhana's message request!
+2025-01-26 13:05:37,338 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I'm 29. I have wasted 7 years for government exam preparation. What should I do?
+2025-01-26 13:05:37,831 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most:  Anger boils over as a migrant shelter prepares to open in a small Massachusetts town
+2025-01-26 13:05:38,331 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Ga. shooting suspect appears in court just hours after his father is charged
+2025-01-26 13:05:38,818 - INFO - Processed email from: Pinterest <recommendations@discover.pinterest.com>, subject: Tattoo for Rudransh
+2025-01-26 13:05:39,316 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most | Ga. shooting suspect was ‘begging’ for mental health help, suspect’s aunt says
+2025-01-26 13:05:39,879 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: An au pair, a husband’s affair and a double homicide
+2025-01-26 13:05:40,360 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Should I choose TCS or Hexaware?
+2025-01-26 13:05:40,838 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: How China extended its repression into an American city
+2025-01-26 13:05:41,367 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: A school cop was accused of sexual misconduct with kids. He kept his job for years.
+2025-01-26 13:05:42,579 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Israel recovers 6 hostage bodies, including Israeli American
+2025-01-26 13:05:43,059 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Cpspaisa, important information inside about Stake accessibility.
+
+2025-01-26 13:05:43,546 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Did Mahabharata begin with a dog?
+2025-01-26 13:05:44,039 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Loyalty to Trump helped Corey Lewandowski survive harassment scandal
+2025-01-26 13:05:44,508 - INFO - Processed email from: Pinterest <activity@notifications.pinterest.com>, subject: Don't forget to accept Suhana's message request!
+2025-01-26 13:05:44,985 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Is ISKCON a scam?
+2025-01-26 13:05:45,521 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: The Army’s fight to find recruits in a mistrustful, divided nation
+2025-01-26 13:05:46,004 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Cpspaisa, crypto bonus inside!
+
+2025-01-26 13:05:46,556 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most | 24 hours of Trump: QAnon tributes, crude attacks and hawking pieces of his suit
+2025-01-26 13:05:47,076 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Blood sugar is 156. Is it good or not?
+2025-01-26 13:05:47,568 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Did Lord Rama and Hanuman eat meat?
+2025-01-26 13:05:48,101 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Trump argues he’s destined to win. His latest ally? God.
+2025-01-26 13:05:48,582 - INFO - Processed email from: Suhana Chandok via Pinterest <activity@notifications.pinterest.com>, subject: Suhana wants to message you on Pinterest
+2025-01-26 13:05:49,047 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: This state calls itself the ‘most pro-life.’ But moms there keep dying.
+2025-01-26 13:05:49,534 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: What is your salary in hand?
+2025-01-26 13:05:49,997 - INFO - Processed email from: Google <no-reply@accounts.google.com>, subject: Security alert
+2025-01-26 13:05:50,560 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Meet the megadonors pumping millions into the 2024 election
+2025-01-26 13:05:51,048 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I just got a 3.6 GPA freshman year of high school. My parents are disappointed and so...?
+2025-01-26 13:05:51,588 - INFO - Processed email from: Pinterest <recommendations@discover.pinterest.com>, subject: \u2764 Rudransh, these ideas are so you
+2025-01-26 13:05:52,064 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Trump allies try to energize him as he struggles to adapt to Harris
+2025-01-26 13:05:52,605 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I am working in TCS with 24.5 LPA and got an offer from HCL of 32 LPA. Is it good to ...?
+2025-01-26 13:05:53,127 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Tim Walz’s upbringing in rural Nebraska seemed idyllic. Then came tragedy.
+2025-01-26 13:05:53,633 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I want to study, but I waste my whole day without doing anything significant, and I a...?
+2025-01-26 13:05:54,132 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Kamala Harris has put Trump in a box, and he’s struggling to break out
+2025-01-26 13:05:54,604 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: The reinvention of Kamala Harris
+2025-01-26 13:05:55,149 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Will a smoker’s lungs clean themselves if they quit smoking and how long does it take?
+2025-01-26 13:05:55,639 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: ‘Black jobs,’ ‘basement dwellers’ and more memorable lines from DNC Night 2
+2025-01-26 13:05:56,142 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: What has BJP done for Hindus?
+2025-01-26 13:05:56,687 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: Convention night one showed the snap evolution of the Democratic Party
+2025-01-26 13:05:57,239 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: If my CTC is 20 LPA, then how much do I get in my hand salary?
+2025-01-26 13:05:57,719 - INFO - Processed email from: Pinterest <recommendations@inspire.pinterest.com>, subject: Phone Background for Rudransh
+2025-01-26 13:05:58,180 - INFO - Processed email from: Overleaf <welcome@overleaf.com>, subject: Welcome to Overleaf
+2025-01-26 13:05:58,699 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: The Post Most: A Black couple hosts family parties. Neighbors keep calling the cops.
+2025-01-26 13:05:59,168 - INFO - Processed email from: The Washington Post <email@washingtonpost.com>, subject: Set your password
+2025-01-26 13:05:59,660 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I resigned from TCS in 2020 and want to go back to TCS. Is this allowed?
+2025-01-26 13:06:00,153 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Wipro sacks 300 staff for moonlighting on sly. How did the company find out?
+2025-01-26 13:06:00,621 - INFO - Processed email from: Savana <update@savana.com>, subject: SAVANA: Your Order has been Delivered!
+2025-01-26 13:06:01,096 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I got 3.3 LPA in TCS and 4.5 LPA in Accenture. Which one should I choose?
+2025-01-26 13:06:01,581 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I got selected in TCS with 3.3 LPA, but I think it's very low. Is it sufficient to li...?
+2025-01-26 13:06:02,055 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: My package is 15 LPA and I got an offer of 21 LPA. Now my current company is offering...?
+2025-01-26 13:06:02,542 - INFO - Processed email from: Pinterest <recommendations@discover.pinterest.com>, subject: Inspired by Rudransh
+2025-01-26 13:06:03,019 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I resigned from TCS due to low pay and my last working day is 14th Oct, but I didn't ...?
+2025-01-26 13:06:03,510 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: My HR manager asked me to resign. When I refused, he handed me a termination letter, ...?
+2025-01-26 13:06:03,993 - INFO - Processed email from: Savana <update@savana.com>, subject: SAVANA: Your order has been shipped!
+2025-01-26 13:06:04,450 - INFO - Processed email from: Savana <update@savana.com>, subject: SAVANA: Your order is packed and will be shipped soon!
+2025-01-26 13:06:04,973 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I got an offer of 18 LPA fixed. What will be my in-hand salary?
+2025-01-26 13:06:05,464 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: My wife is 7 months pregnant and her company (IT Bangalore) terminated her with knowi...?
+2025-01-26 13:06:05,941 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I wasted 4 years of my BTech while my classmate got a job offer of 45 LPA. How do som...?
+2025-01-26 13:06:06,413 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: What's your salary in TCS?
+2025-01-26 13:06:06,909 - INFO - Processed email from: Pinterest <recommendations@discover.pinterest.com>, subject: Phone Background for Rudransh
+2025-01-26 13:06:07,402 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I have wasted 7 years in TCS and now I am 29. Is there any way to revive my career?
+2025-01-26 13:06:07,867 - INFO - Processed email from: Easebuzz <info@easebuzz.com>, subject: Successful transaction on https://www.savana.com/
+2025-01-26 13:06:08,351 - INFO - Processed email from: Quora Suggested Spaces <indianitindustry-space@quora.com>, subject: I am in Accenture. I got PIP and I wanted to resign, but my HR is asking that I have to take it. Is there any impact on my experience letter if I f...
+2025-01-26 13:06:08,841 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Is the 94.1 LPA salary in Bangalore too low for a 32-year-old software engineer?
+2025-01-26 13:06:09,299 - INFO - Processed email from: "Stake.com" <noreply@mail.stake.com>, subject: Neeraj Chopra ko cheer karein Olympics 2024 mein!
+
+2025-01-26 13:06:09,783 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I am working in TCS with 8.1 LPA. I got an offer of Accenture with 15 LPA fixed. I ca...?
+2025-01-26 13:06:10,260 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Is 12 LPA a high salary in Pune?
+2025-01-26 13:06:10,714 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Why do people with a 20 LPA package say that ‘Bangalore is expensive’?
+2025-01-26 13:06:11,198 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: What is your salary in hand?
+2025-01-26 13:06:11,645 - INFO - Processed email from: Google <no-reply@accounts.google.com>, subject: Help strengthen the security of your Google Account
+2025-01-26 13:06:12,114 - INFO - Processed email from: Pinterest <confirm@account.pinterest.com>, subject: Please confirm your email address
+2025-01-26 13:06:12,595 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: What is the SBI clerk salary slip?
+2025-01-26 13:06:13,050 - INFO - Processed email from: ChatGPT <noreply@tm.openai.com>, subject: ChatGPT - Verify your email
+2025-01-26 13:06:13,536 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Why is the Accenture recruitment process very slow?
+2025-01-26 13:06:14,014 - INFO - Processed email from: Quora Suggested Spaces <indianitindustry-space@quora.com>, subject: I am currently working with TCS and got an offer from Accenture at 60% hike. My joining is on 30th November. Should I accept this offer considering...
+2025-01-26 13:06:14,507 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: My CTC is between 6 LPA in TCS and I got an offer from Accenture (10+LPA). TCS is off...?
+2025-01-26 13:06:14,989 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Is the 94.1 LPA salary in Bangalore too low for a 32-year-old software engineer?
+2025-01-26 13:06:15,460 - INFO - Processed email from: Pinterest <confirm@account.pinterest.com>, subject: \U0001f44b Please confirm your email address
+2025-01-26 13:06:15,933 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: What's the salary of Narendra Modi?
+2025-01-26 13:06:16,424 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: My son has a YouTube channel with 12 million subscribers. How do I tell him it's not ...?
+2025-01-26 13:06:16,905 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: If I invest SIP 3000/month for 5 years and hold it for 20 years, what will be the exp...?
+2025-01-26 13:06:17,367 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: My son failed in CBSE 12th board while my daughter has secured 96% marks. What should...?
+2025-01-26 13:06:17,836 - INFO - Processed email from: MakeMyTrip <mmtbusiness@makemytrip.com>, subject: Rudransh Singh, thanks for your feedback for Hotel Central Park, Udupi!
+2025-01-26 13:06:18,284 - INFO - Processed email from: MakeMyTrip <mmtbusiness@makemytrip.com>, subject: Congrats Rudransh Singh! Your rating has been successfully submitted - Enjoy 5% discount!
+2025-01-26 13:06:18,758 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Is the 94.1 LPA salary in Bangalore too low for a 32-year-old software engineer?
+2025-01-26 13:06:19,252 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Can I wear bikinis at Hindu temples?
+2025-01-26 13:06:19,715 - INFO - Processed email from: Quora Suggested Spaces <salaryandhappiness-space@quora.com>, subject: If the CTC is 35 LPA, what is the in-hand salary in NCR?
+2025-01-26 13:06:20,196 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: If an interviewer says “we’re still interviewing other candidates at the moment,” and...?
+2025-01-26 13:06:20,682 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: What is it like to earn 50-60 LPA in India and how is the life after reaching such sa...?
+2025-01-26 13:06:21,142 - INFO - Processed email from: MakeMyTrip <mmtbusiness@makemytrip.com>, subject: Review your recent stay at Hotel Central Park and earn rewards!
+2025-01-26 13:06:21,597 - INFO - Processed email from: MakeMyTrip <noreply@makemytrip.com>, subject: Tax Invoice for your Hotel Booking id NH72051331850912
+2025-01-26 13:06:22,075 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Is Sadhguru really as bad as some people have portrayed him?
+2025-01-26 13:06:22,563 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: What is Amul milk made of? Why is it unnaturally thick and white?
+2025-01-26 13:06:23,038 - INFO - Processed email from: The Google Account Team <google-noreply@google.com>, subject: Rudransh, review your Google Account settings
+2025-01-26 13:06:23,493 - INFO - Processed email from: Google <no-reply@accounts.google.com>, subject: Security alert
+2025-01-26 13:06:23,973 - INFO - Processed email from: no-reply@codility.com, subject: You are invited to MIT Manipal_ SWE Internship Test _ FY25
+2025-01-26 13:06:24,470 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I want to leave India. Which country should I go to?
+2025-01-26 13:06:24,922 - INFO - Processed email from: Goldman Sachs Recruiting <GSRecruiting@oracle.com>, subject: Your Application with Goldman Sachs
+2025-01-26 13:06:25,398 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Accenture withdrew their job offer after my acceptance. I have submitted resignation ...?
+2025-01-26 13:06:26,598 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: How innocent are your parents?
+2025-01-26 13:06:27,062 - INFO - Processed email from: Goldman Sachs Recruiting <GSRecruiting@oracle.com>, subject: Continue to apply for the job 2025 | India, Bengaluru | Engineering | Summer Analyst
+2025-01-26 13:06:27,527 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: If my fixed CTC is 9.5 LPA, then what will be my in-hand salary in 2023?
+2025-01-26 13:06:28,002 - INFO - Processed email from: Microsoft Recruiting <gtaanm@microsoft.com>, subject: Welcome to Microsoft Careers!
+2025-01-26 13:06:28,466 - INFO - Processed email from: Microsoft account team <account-security-noreply@accountprotection.microsoft.com>, subject: Verify your email address
+2025-01-26 13:06:28,943 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I have received an offer letter from Mindtree and uploaded all the documents. After 2...?
+2025-01-26 13:06:29,432 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: TCS is giving 29.5 LPA for an associate consultant with 14.5 years of experience. Is ...?
+2025-01-26 13:06:29,891 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: My husband and I went to a bar last night and he let a guy hit on me for over 5 minut...?
+2025-01-26 13:06:30,424 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Is vaping bad for your health?
+2025-01-26 13:06:30,882 - INFO - Processed email from: "Stake.com" <noreply@mail.stake.com>, subject: Cpspaisa, important information inside about Stake accessibility.
+
+2025-01-26 13:06:31,410 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I smoked cigarettes irregularly for 2 years like someday smoking 5-6 and someday not ...?
+2025-01-26 13:06:31,907 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: In a TCS interview, the interviewer asked, "If you were given a choice to choose betw...?
+2025-01-26 13:06:32,364 - INFO - Processed email from: Trustpilot Content Integrity <contentintegrity@trustpilot.com>, subject: Rudransh Singh, your review has been removed
+2025-01-26 13:06:32,824 - INFO - Processed email from: Trustpilot <noreply.notifications@trustpilot.com>, subject: Rudransh Singh, thanks for joining Trustpilot
+2025-01-26 13:06:33,307 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: In a TCS interview, the interviewer asked, "If you were given a choice to choose betw...?
+2025-01-26 13:06:33,835 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I am in Accenture. I got PIP and I wanted to resign, but my HR is asking that I have ...?
+2025-01-26 13:06:34,321 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Cpspaisa, Stake pe khele aur $50,000 USD ke prizes jeete!
+
+2025-01-26 13:06:34,793 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I got selected for TCS Digital (7 LPA) and Accenture (6.5 LPA). Which one should I ch...?
+2025-01-26 13:06:35,282 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: What's the salary of Narendra Modi?
+2025-01-26 13:06:35,783 - INFO - Processed email from: MakeMyTrip <noreply@makemytrip.com>, subject: Your Booking Confirmation Voucher for Hotel Central Park
+2025-01-26 13:06:36,247 - INFO - Processed email from: MakeMyTrip <noreply@makemytrip.com>, subject: Important information regarding hotel booking ID NH72051331850912
+2025-01-26 13:06:36,760 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: My son has a YouTube channel with 12 million subscribers. How do I tell him it's not ...?
+2025-01-26 13:06:37,293 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Can you tell me something about yourself?
+2025-01-26 13:06:37,764 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: If I die alone at home, how many hours or days will pass until my pet dog, cat or bir...?
+2025-01-26 13:06:38,237 - INFO - Processed email from: MakeMyTrip <noreply@makemytrip.com>, subject: Important information regarding hotel booking ID NH72051331850912
+2025-01-26 13:06:38,749 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: I received 68 bitcoin from a random address. What should I do, call the police?
+2025-01-26 13:06:39,260 - INFO - Processed email from: Quora Suggested Spaces <theanonymouslywrite-space@quora.com>, subject: NDA now at 303! Modern Day "Chanakya"AmitShah Ji has started his magic! 7 Independents & 3 MPs from Small parties to extend support to NDA Govt aft...
+2025-01-26 13:06:39,760 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Who are toxic parents?
+2025-01-26 13:06:40,285 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: How do cancer patients know the end is near?
+2025-01-26 13:06:40,758 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Is OYO Rooms doing fraud with their customers?
+2025-01-26 13:06:41,226 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: My son has a YouTube channel with 12 million subscribers. How do I tell him it's not ...?
+2025-01-26 13:06:41,717 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: If you smoke 5 cigarettes a day, in how many years can you get cancer?
+2025-01-26 13:06:42,211 - INFO - Processed email from: Quora Suggested Spaces <getinstafollowersfree-space@quora.com>, subject: 10k instagram followers free
+2025-01-26 13:06:42,699 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Cpspaisa, get back in the game on Stake!
+
+2025-01-26 13:06:43,245 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: What were your 12th marks, and what are you doing now?
+2025-01-26 13:06:43,714 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Your Free Bonus on Stake! 
+
+2025-01-26 13:06:44,205 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Can any IAS officer own a Lamborghini?
+2025-01-26 13:06:44,730 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Is Sadhguru's ashram safe for women?
+2025-01-26 13:06:45,197 - INFO - Processed email from: "Stake.com" <noreply@mail.stake.com>, subject: Keep your funds ever ready with Stake Vault
+
+2025-01-26 13:06:45,677 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: As TCS has stopped work from home, how many employees are likely to resign voluntaril...?
+2025-01-26 13:06:46,230 - INFO - Processed email from: Quora Suggested Spaces <getinstafollowers-space@quora.com>, subject: 28
+2025-01-26 13:06:46,720 - INFO - Processed email from: "Stake.com" <noreply@mail.stake.com>, subject: Cpspaisa, Enjoy the speed and ease of Stake Vault
+
+2025-01-26 13:06:47,215 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Cpspaisa, crypto ke saath kya khared sakte ho?
+
+2025-01-26 13:06:47,730 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Does IGNOU have any importance? Is IGNOU good?
+2025-01-26 13:06:48,201 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: My husband was a TCS employee. He passed away a few months back. Does anyone know abo...?
+2025-01-26 13:06:48,701 - INFO - Processed email from: "Stake.com" <noreply@mail.stake.com>, subject: Cpspaisa, Stake Vault gives your funds the greatest security
+
+2025-01-26 13:06:49,205 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Cpspaisa, Kya aap crypto ke fan ho?
+
+2025-01-26 13:06:49,704 - INFO - Processed email from: MakeMyTrip <no-reply@zen2-makemytrip.com>, subject: Tell Us If Your Hotel Cancellation Process Was Easy!
+2025-01-26 13:06:50,233 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Does Hanuman Chalisa do miracles? Has anyone witnessed a miracle?
+2025-01-26 13:06:50,722 - INFO - Processed email from: "Stake.com" <noreply@mail.stake.com>, subject: \U0001f4b0The Million Dollar Win \U0001f4b0
+
+2025-01-26 13:06:51,255 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Cpspaisa, kya aap crypto ke fan ho?
+
+2025-01-26 13:06:51,784 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Why is “#UninstallWhatsApp” trending on Twitter?
+2025-01-26 13:06:52,280 - INFO - Processed email from: "Stake.com" <noreply@mail.stake.com>, subject: Enhance your password security with Stake Vault\U0001f482
+
+2025-01-26 13:06:52,784 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: Does Hanuman Chalisa do miracles? Has anyone witnessed a miracle?
+2025-01-26 13:06:53,244 - INFO - Processed email from: Quora Suggested Spaces <teenslove1-space@quora.com>, subject: Umm why it was removed
+2025-01-26 13:06:53,706 - INFO - Processed email from: "Stake.com" <noreply@mail.stake.com>, subject: Lightning-fast Sports Bets with Stake Vault \u26a1\ufe0f
+
+2025-01-26 13:06:54,211 - INFO - Processed email from: MakeMyTrip <noreply@makemytrip.com>, subject: Your Booking Confirmation Voucher for Hotel Central Park
+2025-01-26 13:06:54,733 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Cpspaisa, kya aap ko koi help chahiye?
+
+2025-01-26 13:06:55,290 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Cpspaisa, claim your BONUS today!
+
+2025-01-26 13:06:55,823 - INFO - Processed email from: Quora Digest <english-personalized-digest@quora.com>, subject: What happens if you do not eat sugar for 8 weeks?
+2025-01-26 13:06:56,306 - INFO - Processed email from: "Stake.com" <noreply@mail.stake.com>, subject: Cpspaisa, Access funds instantly with Stake Vault \U0001f389
+
+2025-01-26 13:06:56,865 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Cpspaisa, crypto ke benefits ke maza le!
+
+2025-01-26 13:06:57,336 - INFO - Processed email from: The Google Account Team <no-reply@google.com>, subject: \u2705 Rudransh, finish setting up your Apple iPhone device with the latest Google apps
+2025-01-26 13:06:57,785 - INFO - Processed email from: Google <no-reply@accounts.google.com>, subject: Security alert
+2025-01-26 13:06:58,333 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Cpspaisa, kya aapko crypto deposit karna hai?
+
+2025-01-26 13:06:58,810 - INFO - Processed email from: "Stake.com" <noreply@mail.stake.com>, subject: Your Funds Are Always Ready With Stake Vault \U0001f510
+
+2025-01-26 13:06:59,294 - INFO - Processed email from: Discord <notifications@discord.com>, subject: Welcome to Discord!
+2025-01-26 13:06:59,783 - INFO - Processed email from: Discord <noreply@discord.com>, subject: Verify Email Address for Discord
+2025-01-26 13:07:00,297 - INFO - Processed email from: MakeMyTrip <noreply@makemytrip.com>, subject: Your Booking Confirmation Voucher for Home Town Galleria Manipal
+2025-01-26 13:07:00,793 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Cpspaisa, enjoying your time on Stake? \U0001f3b0
+
+2025-01-26 13:07:01,300 - INFO - Processed email from: Stake <noreply@mail.stake.com>, subject: Cpspaisa, enter the wide world of Stake! \U0001f30dVIP
+
+2025-01-26 13:07:01,787 - INFO - Processed email from: "stake.com" <noreply@stake.com>, subject: Login to stake.com
+2025-01-26 13:07:02,246 - INFO - Processed email from: "stake.com" <noreply@stake.com>, subject: Cpspaisa, you’ve started a new session on Stake!
+2025-01-26 13:07:02,713 - INFO - Processed email from: "stake.com" <noreply@stake.com>, subject: Login to stake.com
+2025-01-26 13:07:03,181 - INFO - Processed email from: "stake.com" <noreply@stake.com>, subject: Cpspaisa, welcome to Stake.com!
+2025-01-26 13:07:03,711 - INFO - Processed email from: Google Community Team <googlecommunityteam-noreply@google.com>, subject: Rudransh, finish setting up your new Google Account
+2025-01-26 13:07:03,792 - INFO - Inserted 347 emails into the database.
+2025-01-26 13:07:03,796 - INFO - All emails processed successfully.
+2025-01-26 13:07:03,796 - INFO - Database connection closed.
